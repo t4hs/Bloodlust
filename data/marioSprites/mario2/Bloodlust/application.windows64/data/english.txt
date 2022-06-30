@@ -1,0 +1,34 @@
+Score: 
+Killed: 
+Lives: 
+FinalScore: 
+play again
+exit
+Play
+Character
+Leaderboard
+Settings
+Single Player
+Multiplayer
+Tutorial
+Language
+Controls
+Sound
+Block
+Attack
+Jump
+Gameplay
+Music
+All
+HOLD W TO JUMP
+Time your jumps to get over obstacles
+Dodge obstacles for 10 seconds to proceed. Time  remaining:
+PRESS D TO Attack
+time your attacks to slay your enemies
+kill 3 enemies to proceed. (
+HOLD A TO BLOCK
+time your block to stop fireballs before killing enemies
+kill 3 enemies while blocking fireballs to proceed. (
+CONGRATULATIONS
+You have completed the tutorial. Press s to exit
+Select Character

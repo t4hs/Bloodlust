@@ -1,0 +1,34 @@
+Ergebnis:
+Getötet:
+Leben:
+Endstand:
+nochmal abspielen
+Ausfahrt
+abspielen
+Charakter
+Bestenliste
+die Einstellungen
+Einzelspieler
+Multiplayer
+Lernprogramm
+Sprache
+Kontrollen
+Klang
+Block
+Attacke
+Springen
+Spielweise
+Musik
+Alle
+HALTEN SIE W, UM ZU SPRINGEN
+Zeit deine Sprünge, um Hindernisse zu überwinden
+Weiche Hindernissen 10 Sekunden lang aus, um fortzufahren. Verbleibende Zeit:
+DRÜCKEN SIE D, um anzugreifen
+Zeit deine Angriffe, um deine Feinde zu töten
+töte 3 Feinde, um fortzufahren. (
+Halten Sie ein, um zu blockieren
+Zeit deinen Block, um Feuerbälle zu stoppen, bevor du Feinde tötest
+Töte 3 Feinde, während du Feuerbälle blockierst, um fortzufahren. (
+HERZLICHE GLÜCKWÜNSCHE
+Sie haben das Tutorial abgeschlossen. Drücken Sie zum Beenden s
+Charakter auswählen

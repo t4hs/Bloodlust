@@ -1,0 +1,34 @@
+But:
+Tué:
+Vies:
+Score final:
+rejouer
+sortie
+Jouer
+Personnage
+Classement
+Réglages
+Un joueur
+Multijoueur
+Didacticiel
+Langue
+Les contrôles
+Du son
+Bloquer
+Attaque
+Saut
+Gameplay
+La musique
+Tout
+MAINTENIR W POUR SAUTER
+Planifiez vos sauts pour surmonter les obstacles
+Esquivez les obstacles pendant 10 secondes pour continuer. Temps restant:
+APPUYEZ SUR D POUR attaquer
+chronométrez vos attaques pour tuer vos ennemis
+tuez 3 ennemis pour continuer. (
+MAINTIEN D'UN BLOC
+chronométrez votre bloc pour arrêter les boules de feu avant de tuer des ennemis
+tuez 3 ennemis tout en bloquant les boules de feu pour continuer. (
+TOUTES NOS FÉLICITATIONS
+Vous avez terminé le didacticiel. Appuyez sur s pour quitter
+Sélectionnez un personnage
